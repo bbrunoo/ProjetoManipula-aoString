@@ -1,0 +1,1 @@
+# ProjetoManipula-aoString
